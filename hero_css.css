@@ -3,8 +3,14 @@ header{
 	padding: 40px 40px 40px 40px;
 }
 
-
-
+h1{
+	font-size: 90px;
+	color: white;
+}
+header img{
+	border-radius: 400px;
+	
+}
 
 
 /*<header>
